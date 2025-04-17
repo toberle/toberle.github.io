@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: toberle
-description: >- # this means to ignore newlines until "baseurl:"
-  toberle
+#description: >- # this means to ignore newlines until "baseurl:"
+#  toberle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  toberle
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
