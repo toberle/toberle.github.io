@@ -1,0 +1,10 @@
+site_name: toberle
+
+theme:
+  name: mkdocs
+  color_mode: dark
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - javascript
+    - java
