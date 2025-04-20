@@ -20,5 +20,12 @@ jobs:
           python-version: '3.13'
       - run: pip install mkdocs
       - run: mkdocs build
-      - name: Deploy docs
-        run: mkdocs gh-deploy
+      - name: Setup Pages
+        run: actions/configure-pages@v5
+      - name: Upload artifact
+        run: actions/upload-pages-artifact@v3
+        with:
+          path: 'site'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy@v4
