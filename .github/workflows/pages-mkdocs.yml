@@ -21,9 +21,9 @@ jobs:
       - run: pip install mkdocs
       - run: mkdocs build
       - name: Setup Pages
-        run: actions/configure-pages@v5
+        uses: actions/configure-pages@v5
       - name: Upload artifact
-        run: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3
         with:
           path: 'site'
       - name: Deploy to GitHub Pages
