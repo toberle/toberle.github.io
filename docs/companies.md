@@ -11,6 +11,8 @@
 - [Herba Drug, s.r.o.](https://www.herbadrug.sk/)
 - [Baliarne obchodu, a.s. Poprad](https://www.baliarne.sk/)
 - [HERBEX spol. s r.o.](https://www.herbex.sk/)
+- [OBUV-ŠPECIÁL, spol. s r.o.](https://bosp.sk/)
+- [CHIRANA T. Injecta, a.s.](https://www.t-injecta.sk/)
 
 
 ## Czech republic
@@ -18,3 +20,4 @@
 - [KDS SEDLČANY, nožířské výrobní družstvo](https://www.kds.cz/)
 - [KOPOS KOLÍN a.s.](https://www.kopos.cz/)
 - [REMOSKA s.r.o.](https://remoska.cz/)
+
