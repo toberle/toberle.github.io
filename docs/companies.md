@@ -13,6 +13,7 @@
 - [HERBEX spol. s r.o.](https://www.herbex.sk/)
 - [OBUV-ŠPECIÁL, spol. s r.o.](https://bosp.sk/)
 - [CHIRANA T. Injecta, a.s.](https://www.t-injecta.sk/)
+- [CHEMOLAK a.s.](https://www.chemolak.sk/)
 
 
 ## Czech republic
