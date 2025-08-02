@@ -15,6 +15,7 @@
 - [CHIRANA T. Injecta, a.s.](https://www.t-injecta.sk/)
 - [CHEMOLAK a.s.](https://www.chemolak.sk/)
 - [DYNAMAX, s.r.o.](https://www.dynamaxoil.com/)
+- [TATRASVIT SVIT - SOCKS, a.s.](https://www.tatrasvit.sk/)
 
 
 ## Czech republic
