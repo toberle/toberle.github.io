@@ -1,6 +1,5 @@
 # Companies
 
-## Slovakia
 
 - [Notes, a.s.](https://www.notesonline.eu/)
 - [ATTACK, s.r.o.](https://attack.sk/)
@@ -16,9 +15,11 @@
 - [CHEMOLAK a.s.](https://www.chemolak.sk/)
 - [DYNAMAX, s.r.o.](https://www.dynamaxoil.com/)
 - [TATRASVIT SVIT - SOCKS, a.s.](https://www.tatrasvit.sk/)
+- [DECODOM, spol. s r.o.](https://www.decodom.sk/)
+- [EMI EU s.r.o.](https://emi.sk/)
 
 
-## Czech republic
+
 
 - [KDS SEDLČANY, nožířské výrobní družstvo](https://www.kds.cz/)
 - [KOPOS KOLÍN a.s.](https://www.kopos.cz/)
