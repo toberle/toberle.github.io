@@ -20,6 +20,7 @@ Match User USERNAME
 A **ChrootDirectory** limits access for SSH to specific directory.
 
 Notes:
+
 - **IMPORTANT:** /srv/ftp/uploads folder needs to be "owned" by root
     - `sudo chown root:root /srv/ftp/uploads`
     - create folder with USER access in `uploads` folder
