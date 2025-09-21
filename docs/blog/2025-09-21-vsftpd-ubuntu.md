@@ -1,9 +1,9 @@
 # SFTP setup on Ubuntu
 
 Installation and setup of VSDTPD in Ubuntu Server 24.04.3 LTS with:
-- dedicated user for FTP (replace *USERNAME* placeholder),
-- and SSH user has limited access to server (specific directory and only SFTP/FTP).
 
+- dedicated user for FTP (replace _USERNAME_ placeholder),
+- and SSH user has limited access to server (specific directory and only SFTP/FTP).
 
 ## SSH setup - limitation of access for SFTP and directories (sshd_config)
 
@@ -21,19 +21,17 @@ A **ChrootDirectory** limits access for SSH to specific directory.
 
 Notes:
 
-- **IMPORTANT:** /srv/ftp/uploads folder needs to be "owned" by root
+- **IMPORTANT:** `/srv/ftp/uploads` folder needs to be "owned" by root
     - `sudo chown root:root /srv/ftp/uploads`
     - create folder with USER access in `uploads` folder
 - Access is limited to SFTP via **ForceCommand**
 - **Restart SSH service** after changes in configuration.
-
 
 ## Users (Linux/SSH)
 
 Create user:
 
 `sudo useradd -d /srv/ftp/uploads USERNAME`
-
 
 ## vsftpd
 
