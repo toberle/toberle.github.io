@@ -1,5 +1,6 @@
 # Companies
 
+## Slovak companies
 
 - [Notes, a.s.](https://www.notesonline.eu/)
 - [ATTACK, s.r.o.](https://attack.sk/)
@@ -18,10 +19,8 @@
 - [DECODOM, spol. s r.o.](https://www.decodom.sk/)
 - [EMI EU s.r.o.](https://emi.sk/)
 
-
-
+## Czech companies
 
 - [KDS SEDLČANY, nožířské výrobní družstvo](https://www.kds.cz/)
 - [KOPOS KOLÍN a.s.](https://www.kopos.cz/)
 - [REMOSKA s.r.o.](https://remoska.cz/)
-
